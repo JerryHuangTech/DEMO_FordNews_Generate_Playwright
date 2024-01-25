@@ -1,0 +1,2 @@
+# DEMO_FordNews_Generate_Playwright
+簡單部分展示以Python自動生成基於NodeJS的Playwright腳本的應用。此方案為針對大規模的反覆模式(Repeating Patterns)的應用需求作處理，該案例目的是抓取超過100多家新聞台網站特定資料，盡可能自動化媒合反覆可用Snippt，減少手寫部分，最終組合成可用程式。
