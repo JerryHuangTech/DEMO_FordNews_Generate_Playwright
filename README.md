@@ -1,7 +1,7 @@
 # DEMO_FordNews_Generate_Playwright
 ## 項目介紹
 
-此為降低測試成本的一個方案原型，針對過多端對端測試（End-to-End Testing）成本與過早的測試（Early Testing）的時間浪費，能大幅度降低。
+此為降低測試成本的一種方案原型，針對過多端對端測試（End-to-End Testing）成本與過早的測試（Early Testing）的時間浪費，能大幅度降低。
 這是一個演示項目，旨在展示如何使用 Python 自動生成基於 Node.js 的 Playwright 腳本。這個項目專為處理大規模重覆模式的應用需求而設計，最終能夠自動化抓取超過100多家新聞網站的特定數據。
 
 ## 主要特性
